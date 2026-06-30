@@ -185,7 +185,13 @@ If you'd like to improve this project:
 4. Push to your branch
 5. Create a Pull Request
 
----
+<img width="1223" height="331" alt="image" src="https://github.com/user-attachments/assets/2105e7f4-5ed3-4607-8719-27bd79e54e74" />
+<img width="1006" height="973" alt="image" src="https://github.com/user-attachments/assets/43aedc0f-d967-47be-a092-7a48c5b30f7e" />
+<img width="1023" height="470" alt="image" src="https://github.com/user-attachments/assets/99f739cd-9e99-45d3-b810-ecf01e51dddd" />
+<img width="1042" height="402" alt="image" src="https://github.com/user-attachments/assets/2e628fde-1300-4be2-937d-5969314dec92" />
+<img width="1018" height="384" alt="image" src="https://github.com/user-attachments/assets/e777495c-da9f-46b7-bcde-6267837b0e54" />
+
+
 
 ## 👨‍💻 Author
 
